@@ -1,0 +1,19 @@
+{
+    "data":
+    [{
+       "Password":"ahmed@3284",
+       "isEmailAlerts":"true",
+       "isContactedByProf":"true",
+       "isContactedByRentedPropertyMgmntProf":"false",
+       "isInterestedInListingAirbnb":"false"
+
+      },
+      {
+        "Password":"ahmed@3284",
+        "isEmailAlerts":"false",
+        "isContactedByProf":"true",
+        "isContactedByRentedPropertyMgmntProf":"false",
+        "isInterestedInListingAirbnb":"true"
+
+      }]
+}

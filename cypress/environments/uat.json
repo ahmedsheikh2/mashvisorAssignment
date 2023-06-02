@@ -1,0 +1,9 @@
+{
+    "env": 
+    {
+      "environment": "uat",
+      "app-url": "https://www.mashvisor.com/signup",
+      "fixtureFile":"testdata.json",
+      "status":"true"
+    }
+}
